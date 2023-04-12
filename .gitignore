@@ -1,2 +1,8 @@
 Flickr8k_text/
 Flickr8k_Dataset/
+glove.6B.200d.txt
+*.pkl
+*.txt
+saved_model/
+*.png
+flagged/
